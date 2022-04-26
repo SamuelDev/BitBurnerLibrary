@@ -1,0 +1,1 @@
+If it still works, this repo should use the [BitBurner VSCode extension](https://github.com/bitburner-official/bitburner-vscode) to import these files into the game.
